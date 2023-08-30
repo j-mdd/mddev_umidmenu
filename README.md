@@ -9,15 +9,15 @@ Join my discord for support !
 - [um-idcard](https://github.com/alp1x/um-idcard)
 - [ox_lib](https://github.com/overextended/ox_lib.git)
 
+## **Credits**
+[um](https://github.com/alp1x)
 This is a um-idcard-menu fully configurable and changed to work just on QBCore Framework 
-and all credits is to uyuyorum (um) and me next release will be worked with qb-target now it works by drawtext
-and you should have um-idcard script https://github.com/alp1x/um-idcard -- complete the QBCore setup and everything that require to work correctly
+next release will be worked with qb-target now it works by drawtext
 
-
-Original Author for mddev_umidmenu : https://github.com/j-mdd
+Original Author for mddev_umidmenu : [mddev](https://github.com/j-mdd)
 
 it's ready to work in RP Server and its fully configurable and detailed config
-for support to any of my script or QBCore in main : https://discord.gg/5BhmYRHmbU
+for support to any of my script or QBCore in main [Discord Support](https://discord.gg/5BhmYRHmbU)
 
 
 
