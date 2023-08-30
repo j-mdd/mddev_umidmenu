@@ -5,8 +5,6 @@ lua54 'yes'
 name 'mddev_umidmenu'
 author 'mddev'
 version '1.0'
---license 'GPL-3.0 license'
---repository 'https://github.com/alp1x/um-idcard-menu'
 
 shared_scripts {
 	'shared/*.lua',
