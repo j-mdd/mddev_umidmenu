@@ -1,5 +1,8 @@
 mddev_umidmenu
 
+It's my first release btw and second script that ive been made .. wait for more !
+Join my discord for support !
+
 dependencies :
 QBCore Framwork
 Default QBCore Draw text & Notify
