@@ -22,13 +22,11 @@ Original Author for mddev_umidmenu : [mddev](https://github.com/j-mdd)
 it's ready to work in RP Server and its fully configurable and detailed config
 for support to any of my script or QBCore in main [Discord Support](https://discord.gg/5BhmYRHmbU)
 
-
-
-there is id-card , driverlicense and weapon license to add more with custom price you have to follow the same thing that are followed in all events in server side / server.lua
-and there is an Notify event in client you can trigger it one for error and one primary.
-
-You can edit everything in Config.lua
-
-just edit the mddev_umidmenu Config.lua to make it ready on your RP Server !
+## **Installation Guide**
+- Download and complete the setup for dependencies 
+- Drag and drop resource into your server files, make sure to remove -main in the folder name
+- To add or remove any card just remove the main event from server side and all things that remain to it in shared/config.lua and check if there is anything remain to it in client side
+- mddev_umidmenu has a detailed config you can edit everything you want without any problems !
+- this script are a machine to let [um-idcard](https://github.com/alp1x/um-idcard) works better and be able to work correctly in RP Servers
 
 Good luck
