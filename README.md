@@ -6,11 +6,10 @@ https://streamable.com/3fcq8k
 It's my first release btw and second script that ive been made .. wait for more !
 Join my discord for support !
 
-dependencies :
-QBCore Framwork
-Default QBCore Draw text & Notify
-um-idcard
-ox_lib
+## **dependencies**
+- [QBCore](https://github.com/qbcore-framework/qb-core)
+- [um-idcard](https://github.com/alp1x/um-idcard)
+- [ox_lib](https://github.com/overextended/ox_lib.git)
 
 This is a um-idcard-menu fully configurable and changed to work just on QBCore Framework 
 and all credits is to uyuyorum (um) and me next release will be worked with qb-target now it works by drawtext
