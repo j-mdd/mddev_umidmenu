@@ -10,7 +10,7 @@ Join my discord for support !
 - [ox_lib](https://github.com/overextended/ox_lib.git)
 
 ## **Credits**
-[um](https://github.com/alp1x)
+[um](https://github.com/alp1x) **All credits dependence to this cool man .. i ask him if i can edit the whole script and rename and republic it .. i appreciate this man all love**
 
 ## **What is mddev_umidmenu?**
 
